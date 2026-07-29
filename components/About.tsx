@@ -39,13 +39,13 @@ export default function About() {
           <div className="mt-6 space-y-4 leading-relaxed text-navy-dark/75">
             <p>
               Bellcorp International is a trusted import and sourcing company connecting
-              manufacturers across China with Indian businesses &mdash; making global sourcing easy,
+               manufacturer, whole sellers and traders  across China with Indian businesses &mdash; making global sourcing easy,
               reliable, and cost-effective.
             </p>
             <p>
               With over 25 years of practical experience, our founder brings deep expertise in China
               sourcing, vendor development, customs, shipment management, and trading &mdash; backed
-              by strong relationships with manufacturers all over China.
+              by strong relationships with  manufacturer, whole sellers and traders all over China.
             </p>
             <p>
               We serve manufacturers, wholesalers, traders, distributors and retailers with

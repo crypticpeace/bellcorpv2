@@ -26,7 +26,7 @@ export default function Categories() {
           <div className="mx-auto mt-4 h-1 w-16 bg-coral" />
           <p className="mt-6 text-navy-dark/70">
             From everyday essentials to the latest products &mdash; sourced from trusted
-            manufacturers across China for manufacturers, wholesalers and traders.
+            manufacturers, whole sellers and traders across China.
           </p>
         </Reveal>
 
